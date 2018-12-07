@@ -1,4 +1,3 @@
 /node_modules
-/demos/template1/node_modules
-/demos/template2/node_modules
-/demos/template4/node_modules
+/demos/node_modules
+.vscode
